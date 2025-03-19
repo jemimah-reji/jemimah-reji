@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 # 💫 About Me:
 🔐 Aspiring cybersecurity pro & Computer Science student<br>🔭 Currently working on the Google Cybersecurity Certificate and a PII removal tool Project<br>👯 Interested in collaborating on cybersecurity projects and expanding my skillset<br>🤝 Always looking for guidance and new opportunities to grow in the field of cybersecurity<br>🌱 Currently learning automata theory, networking laboratory, and software project planning & management<br>💫 Passionate about improving security practices and exploring the intersection of tech and privacy
