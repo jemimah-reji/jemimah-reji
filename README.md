@@ -12,7 +12,7 @@
 ### 📊 GitHub Stats and Top Contributed Repo:
 ![](https://github-readme-stats.vercel.app/api?username=jemimah-reji&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=jemimah-reji&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jemimah-reji&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=jemimah-reji&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jemimah-reji&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
