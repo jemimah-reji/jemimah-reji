@@ -15,7 +15,7 @@
 
 ### 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jemimah-reji&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://github.com/user-attachments/assets/43be5d0f-9c5b-407e-b29c-852dfd0c383e)
+<img src="https://github.com/user-attachments/assets/43be5d0f-9c5b-407e-b29c-852dfd0c383e" width="300">
 ![](https://github-readme-stats.vercel.app/api?username=jemimah-reji&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=jemimah-reji&theme=vue-dark&hide_border=false)
 
