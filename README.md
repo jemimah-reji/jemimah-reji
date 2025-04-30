@@ -11,11 +11,12 @@
 
 ## 🛡️ Certifications
 
-[![ISC2 Certified in Cybersecurity](https://images.credly.com/size/340x340/images/8e61b51e-7974-45a9-bf9b-084f9bf6e337/image.png)](https://www.credly.com/badges/8e61b51e-7974-45a9-bf9b-084f9bf6e337/public_url)
+<a href="https://www.credly.com/badges/8e61b51e-7974-45a9-bf9b-084f9bf6e337/public_url">
+  <img src="https://github.com/user-attachments/assets/9fce6b43-9bf5-41f7-b7c9-a5010421ced0" width="250"/>
+</a>
 
 **ISC2 Certified in Cybersecurity (CC)**  
 Earned through WiCyS x ISC2 Spring Certification Camp
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jemimah-reji) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jemimahreji08@gmail.com) 
