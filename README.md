@@ -17,5 +17,5 @@
 <img src="https://github.com/user-attachments/assets/43be5d0f-9c5b-407e-b29c-852dfd0c383e" width="250">
 ![](https://github-readme-stats.vercel.app/api?username=jemimah-reji&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=jemimah-reji&theme=vue-dark&hide_border=false)
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8e61b51e-7974-45a9-bf9b-084f9bf6e337" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
