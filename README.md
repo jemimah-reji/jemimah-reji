@@ -12,12 +12,6 @@
 - Contributing to open-source security projects
 - Per Scholas IT Support & Cybersecurity Fellow
 
-## 💡 Areas of Interest
-- Healthcare data security & HIPAA compliance
-- Security automation & scripting
-- Threat detection & incident response
-- Network security & vulnerability assessment
-
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
 
@@ -38,7 +32,7 @@ TryHackMe • Wireshark • Metasploit • Burp Suite • SIEM basics
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jemimah-reji) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jemimahreji@outlook.com)
 
-💼 Open to cybersecurity internships and entry-level analyst positions!
+💼 Open to cybersecurity internships and entry-level IT positions!
 
 ---
 
