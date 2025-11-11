@@ -12,12 +12,9 @@
 ## 🛡️ Certifications
 
 **ISC2 Certified in Cybersecurity (CC)**  
+[![ISC2 CC Certification](https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/2d012c87-3f51-4cc0-b368-e4ba891a018e)
 
-<a
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d012c87-3f51-4cc0-b368-e4ba891a018e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
->a
-
-Earned through WiCyS x ISC2 Spring Certification Camp
+*Earned through WiCyS x ISC2 Spring Certification Camp*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jemimah-reji) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jemimahreji08@gmail.com) 
