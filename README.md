@@ -13,9 +13,7 @@
 
 **ISC2 Certified in Cybersecurity (CC)**  
 
-<a href="https://www.credly.com/badges/8e61b51e-7974-45a9-bf9b-084f9bf6e337/public_url">
-  <img src="https://github.com/user-attachments/assets/9fce6b43-9bf5-41f7-b7c9-a5010421ced0" width="250"/>
-</a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d012c87-3f51-4cc0-b368-e4ba891a018e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 Earned through WiCyS x ISC2 Spring Certification Camp
 
