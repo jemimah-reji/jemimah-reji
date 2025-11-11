@@ -3,15 +3,14 @@
 ## 🎓 About Me
 - Recent **Computer Science graduate** from UT Dallas (Class of 2025)
 - Currently pursuing **MS in Cybersecurity & Information Assurance** at WGU
-- Aspiring **cybersecurity analyst** with a passion for security automation
-- **ISC2 Certified in Cybersecurity (CC)** professional
-- Active in cybersecurity competitions and CTF challenges
+- Aspiring **information security analyst** with a passion for security automation
+- Active in CTF challenges
 
 ## 🔒 What I'm Working On
 - Building security-focused automation tools and scripts
 - Developing practical skills through **TryHackMe** and hands-on labs
-- Competing in cybersecurity challenges (recent: **21st/600** at NCL 2025)
 - Contributing to open-source security projects
+- Per Scholas IT Support & Cybersecurity Fellow
 
 ## 💡 Areas of Interest
 - Healthcare data security & HIPAA compliance
@@ -32,6 +31,7 @@ TryHackMe • Wireshark • Metasploit • Burp Suite • SIEM basics
 
 ## 🏆 Achievements
 - 🥇 **NCL Cybersecurity Competition 2025** - Ranked 21st out of 600 participants
+<img src="https://github.com/user-attachments/assets/43be5d0f-9c5b-407e-b29c-852dfd0c383e" width="250">
 - 📚 Dean's List (1x) & President's List (3x) at Collin College
 - 👥 Active **WiCyS** (Women in Cybersecurity) member
 
@@ -44,5 +44,3 @@ TryHackMe • Wireshark • Metasploit • Burp Suite • SIEM basics
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jemimah-reji&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<img src="https://github.com/user-attachments/assets/43be5d0f-9c5b-407e-b29c-852dfd0c383e" width="250">
