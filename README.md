@@ -15,9 +15,9 @@
 TryHackMe • Wireshark • Metasploit • Burp Suite • SIEM • HackTheBox
 
 ### Certifications
-<p align="center">
+<p align="left">
   <a href="https://www.credly.com/badges/2d012c87-3f51-4cc0-b368-e4ba891a018e">
-    <img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="220">
+    <img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="150">
   </a>
 </p>
 
