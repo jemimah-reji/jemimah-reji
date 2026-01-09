@@ -15,11 +15,15 @@
 TryHackMe • Wireshark • Metasploit • Burp Suite • SIEM • HackTheBox
 
 ### Certifications
-[![ISC2 Certified in Cybersecurity](https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/2d012c87-3f51-4cc0-b368-e4ba891a018e)
+<p align="center">
+  <a href="https://www.credly.com/badges/2d012c87-3f51-4cc0-b368-e4ba891a018e">
+    <img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="220">
+  </a>
+</p>
 
 ### Achievements and Organizations
 - **WiCyS** (Women in Cybersecurity) member
-- **NCL Cybersecurity Competition 2025 at WiCyS Conference** - Ranked 21st out of 600 participants
+- NCL CTF Competition 2025 at WiCyS Conference - Ranked 21st out of 600 participants
 <img src="https://github.com/user-attachments/assets/43be5d0f-9c5b-407e-b29c-852dfd0c383e" width="150">
 
 ### Let's Connect!
