@@ -1,6 +1,5 @@
 ## Hi there! I'm Jemimah
 
-### Me
 - CS undergrad
 - Pursuing MS in Cybersecurity
 - Aspiring **information security analyst** 
