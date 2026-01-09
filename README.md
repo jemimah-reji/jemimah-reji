@@ -15,9 +15,8 @@
 TryHackMe • Wireshark • Metasploit • Burp Suite • SIEM • HackTheBox
 
 ### Certifications
+ISC2 Certified in Cybersecurity (CC)
 [![ISC2 Certified in Cybersecurity](https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/2d012c87-3f51-4cc0-b368-e4ba891a018e)
-
-**ISC2 Certified in Cybersecurity (CC)**
 
 ### Achievements and Organizations
 - **WiCyS** (Women in Cybersecurity) member
