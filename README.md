@@ -1,10 +1,10 @@
-# Hi there! I'm Jemimah
+### Hi there! I'm Jemimah
 
-## About Me
-- Recent **Computer Science graduate** from UT Dallas (Class of 2025)
+#### Me
+- Computer Science undergrad from UT Dallas (Class of 2025)
 - Currently pursuing **MS in Cybersecurity & Information Assurance** at WGU
 - Aspiring **information security analyst** 
-- Active in CTF challenges
+- Participate in CTFs, bug bounties                                                            
 
 ## What I'm Working On
 - Building security-focused automation tools and scripts
