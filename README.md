@@ -7,9 +7,7 @@
 - Participate in CTFs, bug bounties                                                            
 
 ### What I'm Working On
-- Developing skills through **TryHackMe** and hands-on labs
-- Contributing to open-source security projects
-- Studying for CompTIA A+
+- Studying for CompTIA A+ through PerScholas
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
