@@ -20,11 +20,13 @@ TryHackMe • Wireshark • Metasploit • Burp Suite • SIEM • HackTheBox
   <img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="150"/>
 </a>
 
-<img width="150" height="150" alt="google-it-support-professional-certificate-v-3 (2)" src="https://github.com/user-attachments/assets/5ad07bd6-516e-4883-9c97-132bf23c0e2c" />
-
-https://www.credly.com/badges/c0687894-6f13-4bf7-acb8-e0d388b6ae62/public_url
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c0687894-6f13-4bf7-acb8-e0d388b6ae62" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/c0687894-6f13-4bf7-acb8-e0d388b6ae62/public_url" target="_blank">
+  <img
+    src="https://github.com/user-attachments/assets/5ad07bd6-516e-4883-9c97-132bf23c0e2c"
+    width="150"
+    alt="Google IT Support Professional Certificate"
+  />
+</a>
 
 ### Achievements and Organizations
 - **WiCyS** (Women in Cybersecurity) member
