@@ -20,7 +20,7 @@ TryHackMe • Wireshark • Metasploit • Burp Suite • SIEM • HackTheBox
   <img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="150"/>
 </a>
 
-<img width="75" height="75" alt="google-it-support-professional-certificate-v-3 (2)" src="https://github.com/user-attachments/assets/5ad07bd6-516e-4883-9c97-132bf23c0e2c" />
+<img width="150" height="150" alt="google-it-support-professional-certificate-v-3 (2)" src="https://github.com/user-attachments/assets/5ad07bd6-516e-4883-9c97-132bf23c0e2c" />
 
 ### Achievements and Organizations
 - **WiCyS** (Women in Cybersecurity) member
