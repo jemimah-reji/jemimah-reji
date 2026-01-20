@@ -22,6 +22,10 @@ TryHackMe • Wireshark • Metasploit • Burp Suite • SIEM • HackTheBox
 
 <img width="150" height="150" alt="google-it-support-professional-certificate-v-3 (2)" src="https://github.com/user-attachments/assets/5ad07bd6-516e-4883-9c97-132bf23c0e2c" />
 
+https://www.credly.com/badges/c0687894-6f13-4bf7-acb8-e0d388b6ae62/public_url
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c0687894-6f13-4bf7-acb8-e0d388b6ae62" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### Achievements and Organizations
 - **WiCyS** (Women in Cybersecurity) member
 - NCL CTF Competition 2025 at WiCyS Conference - Ranked 21st out of 600 participants
