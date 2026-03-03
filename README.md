@@ -27,6 +27,9 @@ TryHackMe • Wireshark • Metasploit • Burp Suite • SIEM • HackTheBox
     alt="Google IT Support Professional Certificate"
   />
 </a>
+<img width="150" height="150" alt="comptia-a-ce-certification 1" src="https://github.com/user-attachments/assets/7efc9429-fd84-40cc-8f7e-b2b1d0040281" />
+
+
 
 ### Achievements and Organizations
 - **WiCyS** (Women in Cybersecurity) member
